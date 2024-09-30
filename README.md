@@ -1,4 +1,5 @@
 
+
 # Weather App
 
 This project is a weather application built using React and Vite that allows users to retrieve real-time weather information for various cities. The focus of this project is more on logic and functionality rather than UI design.
@@ -21,6 +22,7 @@ This project is a weather application built using React and Vite that allows use
 - **Vite**: A build tool that provides fast development and Hot Module Replacement (HMR).
 - **React Query**: Used for managing API requests and data state, improving application performance and efficiency.
 - **Zustand**: A lightweight state management solution used to manage the application's state.
+- **Custom Hooks**: API requests and data fetching are handled using custom hooks for clean and reusable code.
 - **Context API**: Used for global state management among components, facilitating cleaner data flow.
 - **Tailwind CSS**: Utilized for responsive design, providing a modern design framework.
 
@@ -48,4 +50,6 @@ To get started with the project, follow these steps:
 
 ## Conclusion
 
-This weather application focuses on the core functionality of retrieving and displaying weather data while ensuring a smooth user experience. The project serves as a practical example of using React with Vite, React Query, and Zustand for state management.
+This weather application focuses on the core functionality of retrieving and displaying weather data while ensuring a smooth user experience. The project serves as a practical example of using React with Vite, React Query, Zustand for state management, and custom hooks to efficiently handle API requests.
+
+
